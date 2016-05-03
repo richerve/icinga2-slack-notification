@@ -16,7 +16,7 @@ case $SERVICESTATE in
 		;;
 	OK)
 		_ICON=':beer:'
-		_COLOR='ok'
+		_COLOR='good'
 		;;
 	UNKNOWN)
 		_ICON=':question:'
